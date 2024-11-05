@@ -1,5 +1,7 @@
 # Currenzy
 
+## Description
+
 A simple web-based currency converter that allows users to convert amounts between various currencies using real-time exchange rates. Built using HTML, CSS, and JavaScript, this application fetches live data from an external API to provide accurate conversion rates.
 
 ## Features
